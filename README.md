@@ -17,3 +17,6 @@ verglichen werden müssen und es ausgegeben wird, wieviele "Richtige" er hat.
 3. Vergleich der getippten und gezogenen Zahlen => Speicher der Anzahl der "Richtigen"
 
 4. Ausgabe der gezogenen Zahlen, der getippten Zahlen und der Anzahl der "Richtigen"
+
+
+# Not yet finished
